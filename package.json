@@ -1,0 +1,19 @@
+{
+  "name": "web_news_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmyaskov100/Web_News_Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmyaskov100/Web_News_Scraper/issues"
+  },
+  "homepage": "https://github.com/rmyaskov100/Web_News_Scraper#readme"
+}
